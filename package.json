@@ -1,0 +1,24 @@
+{
+  "name": "country-code-bot",
+  "version": "0.0.1",
+  "description": "A twitter bot that when mentioned with a country, replies with the correct country code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/katungi/Country-Code-TwitterBot-.git"
+  },
+  "keywords": [
+    "Twitter",
+    "bot",
+    "javascript"
+  ],
+  "author": "Daniel Dennis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katungi/Country-Code-TwitterBot-/issues"
+  },
+  "homepage": "https://github.com/katungi/Country-Code-TwitterBot-#readme"
+}
